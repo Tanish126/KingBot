@@ -28,8 +28,9 @@ function createBot() {
     username: 'DgYtOnTop',
     port: 25565,
     plugins: [AutoAuth],
-    AutoAuth:{
-      password:'553532',
+    AutoAuth: {
+      password: '553532' // Set the password here, or use process.env.PASSWORD if stored in an environment variable
+    }
   });
 
   bot.loadPlugin(pvp);
