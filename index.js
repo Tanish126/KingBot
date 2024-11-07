@@ -25,7 +25,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'play.potionmc.xyz',
     version: false,
-    username: 'DogiYtOnTop',
+    username: 'DgYtOnTop',
     port: 25565,
     plugins: [AutoAuth],
     AutoAuth: {
