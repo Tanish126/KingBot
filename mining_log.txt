@@ -1,0 +1,54 @@
+[7:02:59 pm IST] Starting mining from (69, 69, 69) to (69, 69, 69)
+[7:04:53 pm IST] ⛏️ Already mining!
+[7:04:53 pm IST] ⛏️ Already mining!
+[7:04:58 pm IST] 🛑 Mining stopped.
+[7:04:58 pm IST] 🛑 Mining stopped.
+[7:05:02 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[7:05:02 pm IST] ⛏️ Already mining!
+[7:06:51 pm IST] ⛏️ Already mining!
+[7:06:51 pm IST] ⛏️ Already mining!
+[7:07:24 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[7:08:01 pm IST] 🛑 Mining stopped.
+[7:08:01 pm IST] 🛑 Mining stopped.
+[7:08:18 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[7:08:18 pm IST] ⛏️ Already mining!
+[7:09:05 pm IST] ⛏️ Already mining!
+[7:09:05 pm IST] ⛏️ Already mining!
+[7:09:13 pm IST] 🛑 Mining stopped.
+[7:09:13 pm IST] 🛑 Mining stopped.
+[7:09:15 pm IST] 🛑 Mining stopped.
+[7:09:15 pm IST] 🛑 Mining stopped.
+[7:09:18 pm IST] 🛑 Mining stopped.
+[7:09:18 pm IST] 🛑 Mining stopped.
+[7:09:44 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[7:09:44 pm IST] ⛏️ Already mining!
+[7:10:29 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[7:19:18 pm IST] Starting mining from (69, 69, 69) to (69, 69, 69)
+[7:19:31 pm IST] 🛑 Mining stopped.
+[7:20:41 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[7:23:42 pm IST] 🛑 Mining stopped.
+[7:24:35 pm IST] Starting mining from (-199840, 37, 71943) to (-199840, 37, 71943)
+[7:25:02 pm IST] 🛑 Mining stopped.
+[7:25:37 pm IST] Starting mining from (-199838, 38, 71957) to (-199838, 38, 71957)
+[7:26:11 pm IST] ⛏️ Already mining!
+[7:26:15 pm IST] 🛑 Mining stopped.
+[7:26:17 pm IST] 🛑 Mining stopped.
+[7:26:19 pm IST] Starting mining from (-199838, 40, 71943) to (-199838, 40, 71943)
+[8:17:19 pm IST] Starting mining from (69, 69, 69) to (69, 69, 69)
+[8:17:19 pm IST] ✅ Finished mining!
+[8:17:25 pm IST] 🛑 Mining stopped.
+[8:17:41 pm IST] Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[8:17:41 pm IST] ⛏️ Mined: end_stone at (-199838, 40, 71944)
+[8:48:08 pm IST] Starting mining from (69, 69, 69) to (69, 69, 69)
+[8:50:17 pm IST] ⛏️ Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[8:50:19 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71943)
+[8:54:28 pm IST] ⛏️ Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[8:54:29 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71944)
+[8:54:29 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71945)
+[9:01:16 pm IST] ⛏️ Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[9:42:38 pm IST] ⛏️ Starting mining from (-199837, 37, 71942) to (-199837, 40, 71958)
+[9:42:39 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71949)
+[9:42:39 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71950)
+[9:42:40 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71951)
+[9:42:40 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71952)
+[9:42:40 pm IST] ⛏️ Mined: end_stone at (-199837, 37, 71953)
