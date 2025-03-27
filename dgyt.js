@@ -5,7 +5,18 @@ const { pathfinder } = require("mineflayer-pathfinder");
 const armorManager = require("mineflayer-armor-manager");
 const AutoAuth = require("mineflayer-auto-auth");
 const { Client, GatewayIntentBits } = require("discord.js");
+const express = require("express");
+const app = express();
 
+const PORT = process.env.PORT || 3000; // Render assigns a dynamic port
+
+app.get("/", (req, res) => {
+  res.send("Bot is running!");
+});
+
+app.listen(PORT, () => {
+  console.log(`Web server running on port ${PORT}`);
+});
 // Discord Bot Setup
 const discordBot = new Client({ 
   intents: [
