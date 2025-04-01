@@ -10,11 +10,11 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: "play.stealfun.net",
     version: false,
-    username: "ShadowMinerX97",
+    username: "FluxDrift",
     port: 25565,
     plugins: [AutoAuth],
     AutoAuth: {
-      password: "483726", // Set the password here
+      password: "374829", // Set the password here
     },
   });
 
@@ -97,3 +97,4 @@ function createBot() {
 
 // Start the bot
 createBot();
+
